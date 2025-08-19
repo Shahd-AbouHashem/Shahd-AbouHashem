@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+⚒️ My Skills ⚒️
+
+[![My Skills](https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch)](https://skillicons.dev)
