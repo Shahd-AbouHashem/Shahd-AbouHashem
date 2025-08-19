@@ -5,6 +5,7 @@
 🛠️ My repos range from **industrial automation** projects to **robotics & AI** experiments.  \
 
 ---
+
 ## 📫 Connect with Me  
 
 <a href="mailto:shahdabouhashem02@gmail.com">
@@ -16,7 +17,9 @@
   <a href="https://www.coursera.org/user/17809cedfa1668b1857e295aac449c2c" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank" />
   </a>
+  
 ---
+
 ## ⚒️ My Skills ⚒️ 
 
 [![My Skills](https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch,windows,linux,discord,github,matlab)](https://skillicons.dev)
