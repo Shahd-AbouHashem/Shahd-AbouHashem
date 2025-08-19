@@ -28,6 +28,8 @@
 
 ## ⚒️ My Skills ⚒️ 
 
-[![My Skills](https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch,windows,linux,discord,github,matlab)](https://skillicons.dev)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch,windows,linux,discord,github,matlab" />
+  </a>
+</p>
