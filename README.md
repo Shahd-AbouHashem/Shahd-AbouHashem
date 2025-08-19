@@ -9,7 +9,7 @@
 
 ---
 
-## <h2 align="center">🌐 Connect with Me 🌐  </h2>
+<h2 align="center">🌐 Connect with Me 🌐  </h2>
 
 <p align="center">
   <a href="mailto:shahdabouhashem02@gmail.com">
@@ -35,7 +35,7 @@
 
 ---
 
-## <h2 align="center">🛠️ Tech Skills  🛠️</h2>
+<h2 align="center">🛠️ Tech Skills  🛠️</h2>
 
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 --- 
 
-## <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahd-AbouHashem&show_icons=true&theme=radical" alt="GitHub Stats" />
