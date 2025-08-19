@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,arduino,autocad,ai,pytorch,github,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,arduino,autocad,ai,pytorch,github,matlab,anaconda,cpp,ubuntu,opencv,tensorflow,visualstudio" />
   </a>
 </p>
