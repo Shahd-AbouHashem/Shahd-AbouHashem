@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Shahd Mohsen AbouHashem  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1AA260&center=true&vCenter=true&random=false&width=500&lines=👋+Hi%2C+I’m+Shahd+Mohsen+AbouHashem;🤖+Robotics+%26+Automation+Engineer;💡+Passionate+About+AI+%26+Embedded+Systems" alt="Typing SVG" />
+</p>
+
 
 🎓 Mechatronics and Automation Engineering Graduate (Ain Shams University & University of East London UK Dual Degree, 2025)  
 💡 Passionate about **Robotics, Automation, Embedded Systems, AI/ML, and Biomedical.**  
