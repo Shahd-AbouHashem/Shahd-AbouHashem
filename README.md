@@ -30,4 +30,7 @@
 ## ⚒️ My Skills ⚒️ 
 
 [![My Skills](https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch,windows,linux,discord,github,matlab)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Siemens-logo.svg" width="48" height="48" alt="PLC" />
+
+
 
