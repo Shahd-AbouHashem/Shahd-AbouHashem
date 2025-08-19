@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shahd Mohsen AbouHashem  
 
 🎓 Mechatronics, Robotics, and Automation Engineering Graduate (Ain Shams University & University of East London UK Dual Degree, 2025)  
-💡 Passionate about **Robotics, Automation, Embedded Systems, and AI/ML**  
+💡 Passionate about **Robotics, Automation, Embedded Systems, AI/ML, and Biomedical**  
 🛠️ My repos range from **industrial automation** projects to **robotics & AI** experiments. 
 
 ---
@@ -30,7 +30,5 @@
 ## ⚒️ My Skills ⚒️ 
 
 [![My Skills](https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,anaconda,arduino,autocad,ai,pytorch,windows,linux,discord,github,matlab)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Siemens-logo.svg" width="48" height="48" alt="PLC" />
-
 
 
