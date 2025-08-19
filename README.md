@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 Connect with Me 🌐  
+## <h2 align="center">🌐 Connect with Me 🌐  </h2>
 
 <p align="center">
   <a href="mailto:shahdabouhashem02@gmail.com">
@@ -35,18 +35,18 @@
 
 ---
 
-## 🛠️ Tech Skills  🛠️
+## <h2 align="center">🛠️ Tech Skills  🛠️</h2>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,arduino,autocad,ai,pytorch,github,matlab,anaconda,cpp,ubuntu,opencv,tensorflow,visualstudio" />
   </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Siemens-logo.svg" width="48" height="48" alt="PLC" />
 </p>
 
 --- 
 
-##  ⚡ Stats ⚡ 
+## <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahd-AbouHashem&show_icons=true&theme=radical" alt="GitHub Stats" />
