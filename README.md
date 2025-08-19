@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I’m+Engineer+Shahd+AbouHashem+👋" alt="Typing SVG" />
 </p>
 
-
-
+---
 🎓 Mechatronics and Automation Engineering Graduate (Ain Shams University & University of East London UK Dual Degree, 2025)  
 💡 Passionate about **Robotics, Automation, Embedded Systems, AI/ML, and Biomedical.**  
 🛠️ My repos range from **industrial automation** projects to **robotics & AI** experiments. 
@@ -26,6 +25,9 @@
 </a>
 <a href="https://wuzzuf.net/me/shahd-abouhashem-59463e1ec0?utm_medium=other&utm_source=referral" target="_blank">
     <img src="https://img.shields.io/badge/Wuzzuf-2C8EBB?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/Shahd-AbouHashem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
