@@ -4,7 +4,7 @@
 
 🎓 Mechatronics and Automation Engineering Graduate (Ain Shams University & University of East London UK Dual Degree, 2025)  
 💡 Passionate about **Robotics, Automation, Embedded Systems, AI/ML, and Biomedical.**  
-🛠️ My repos range from **industrial automation** projects to **robotics & AI** experiments. 
+🚀 My repos range from **industrial automation** projects to **robotics & AI** experiments. 
 
 ---
 
